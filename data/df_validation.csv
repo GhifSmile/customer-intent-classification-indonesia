@@ -1,0 +1,819 @@
+utterance,intent,category,tags
+Saya ingin bantuan membatalkan pesanan yang telah saya buat,cancel_order,ORDER,B
+Di mana saya bisa mendapatkan informasi tentang pembatalan pesanan?,cancel_order,ORDER,BIM
+membantu membatalkan pesanan terakhir,cancel_order,ORDER,B
+Saya butuh bantuan untuk membatalkan pesanan yang saya buat,cancel_order,ORDER,B
+Saya tidak tahu bagaimana saya bisa membatalkan pesanan yang saya buat,cancel_order,ORDER,BE
+Bantuan Membatalkan Pesanan Terakhir Saya,cancel_order,ORDER,B
+Bisakah Anda membantu saya membatalkan pesanan yang saya buat?,cancel_order,ORDER,BI
+masalah dengan membatalkan pesanan yang saya buat,cancel_order,ORDER,B
+saya perlu bantuan membatalkan pesanan,cancel_order,ORDER,B
+Saya tidak tahu bagaimana saya bisa membatalkan pesanan yang telah saya buat,cancel_order,ORDER,BE
+bantuan untuk membatalkan pesanan terakhir yang saya buat,cancel_order,ORDER,B
+bantuan membatalkan pesanan yang saya buat,cancel_order,ORDER,B
+membantu membatalkan pesanan terakhir,cancel_order,ORDER,B
+Saya memiliki masalah dengan membatalkan pesanan,cancel_order,ORDER,BM
+Saya ingin bantuan membatalkan pesanan terakhir saya,cancel_order,ORDER,B
+Saya memiliki masalah dengan membatalkan pesanan,cancel_order,ORDER,BM
+masalah dengan membatalkan pesanan yang telah saya buat,cancel_order,ORDER,B
+Di mana saya membatalkan pesanan terakhir?,cancel_order,ORDER,BI
+Di mana saya membatalkan pesanan yang telah saya buat?,cancel_order,ORDER,BI
+Bisakah Anda membantu saya membatalkan pesanan yang saya buat?,cancel_order,ORDER,BI
+Bagaimana saya bisa mendapatkan informasi tentang membatalkan pesanan?,cancel_order,ORDER,BIP
+Saya ingin membatalkan pesanan yang saya buat,cancel_order,ORDER,BP
+Saya ingin membatalkan pesanan terakhir yang saya buat,cancel_order,ORDER,B
+Saya mencoba membatalkan pesanan yang telah saya buat,cancel_order,ORDER,B
+Saya memiliki masalah dengan membatalkan pesanan,cancel_order,ORDER,BM
+Di mana saya bisa mendapatkan informasi tentang membatalkan pesanan?,cancel_order,ORDER,BIMP
+Apakah mungkin untuk membatalkan pesanan yang telah saya buat?,cancel_order,ORDER,BI
+Saya tidak tahu bagaimana membatalkan pesanan saya,cancel_order,ORDER,B
+masalah dengan membatalkan pesanan terakhir yang saya buat,cancel_order,ORDER,B
+Saya ingin bantuan membatalkan pesanan terakhir yang saya buat,cancel_order,ORDER,B
+Saya punya pertanyaan tentang membatalkan pesanan,cancel_order,ORDER,B
+masalah dengan membatalkan pesanan terakhir,cancel_order,ORDER,B
+Saya tidak dapat membayar pesanan yang telah saya buat,cancel_order,ORDER,B
+bantuan membatalkan pesanan yang telah saya buat,cancel_order,ORDER,B
+Saya tidak dapat menghapus beberapa item,change_order,ORDER,BM
+Bisakah Anda membantu saya menambahkan beberapa item?,change_order,ORDER,BIM
+Bisakah Anda membantu saya menghapus beberapa item?,change_order,ORDER,BIM
+Hapus item dari pesanan,change_order,ORDER,BK
+Bantu saya untuk menghapus sesuatu,change_order,ORDER,B
+Saya tidak tahu cara menghapus beberapa item,change_order,ORDER,BM
+bantuan untuk menambahkan beberapa item,change_order,ORDER,BM
+Bisakah Anda membantu saya menambahkan item ke pesanan?,change_order,ORDER,BIP
+Saya memiliki masalah dengan mengubah pesanan yang saya buat,change_order,ORDER,BM
+Bisakah Anda membantu saya mengubah pesanan yang saya buat?,change_order,ORDER,BIP
+saya perlu bantuan untuk menambahkan item,change_order,ORDER,B
+Bantu saya menghapus beberapa item,change_order,ORDER,BM
+masalah dengan mengubah pesanan terakhir saya,change_order,ORDER,BM
+membantu mengubah item pesanan,change_order,ORDER,B
+Saya ingin bantuan mengubah beberapa item dari suatu pesanan,change_order,ORDER,BM
+Bagaimana cara mengubah pesanan saya?,change_order,ORDER,BIP
+Saya membutuhkan bantuan untuk mengubah pesanan terakhir,change_order,ORDER,B
+Saya tidak tahu bagaimana mengubah item pesanan,change_order,ORDER,B
+Bantu saya mengubah pesanan yang telah saya buat,change_order,ORDER,B
+Bisakah Anda membantu saya menambahkan item ke pesanan?,change_order,ORDER,BIP
+Saya tidak tahu cara menambahkan item,change_order,ORDER,BE
+Bantuan Mengubah Pesanan Terakhir Saya,change_order,ORDER,B
+Bisakah Anda membantu saya menghapus beberapa item?,change_order,ORDER,BIMP
+saya mencoba menambahkan beberapa item,change_order,ORDER,BM
+Bagaimana saya bisa menghapus beberapa item dari pesanan?,change_order,ORDER,BIMP
+Bisakah Anda membantu saya mengubah beberapa item dari suatu pesanan?,change_order,ORDER,BIM
+Saya tidak tahu bagaimana saya bisa menambahkan beberapa item,change_order,ORDER,BM
+Saya tidak tahu cara menambahkan beberapa item ke pesanan,change_order,ORDER,BEM
+Saya punya masalah dengan menambahkan beberapa item ke dalam pesanan,change_order,ORDER,BM
+Hapus sesuatu,change_order,ORDER,B
+Bantuan Menambahkan Item,change_order,ORDER,B
+Bantu saya untuk menghapus sesuatu dari pesanan,change_order,ORDER,B
+Saya membutuhkan bantuan untuk mengubah beberapa item dari suatu pesanan,change_order,ORDER,BM
+Bantu saya mengubah alamat pengiriman,change_shipping_address,SHIPPING_ADDRESS,B
+membantu mencoba mengubah alamat pengiriman,change_shipping_address,SHIPPING_ADDRESS,B
+Bisakah Anda membantu saya mengubah alamat pengiriman saya?,change_shipping_address,SHIPPING_ADDRESS,BIP
+Bisakah Anda memberi tahu saya tentang mengubah alamat pengiriman?,change_shipping_address,SHIPPING_ADDRESS,BI
+Apakah mungkin untuk mengubah alamat pengiriman saya?,change_shipping_address,SHIPPING_ADDRESS,BIP
+Saya tidak tahu cara mengubah alamat pengiriman,change_shipping_address,SHIPPING_ADDRESS,B
+Bisakah Anda ceritakan lebih banyak tentang perubahan alamat pengiriman?,change_shipping_address,SHIPPING_ADDRESS,BIP
+Mengubah alamat pengiriman,change_shipping_address,SHIPPING_ADDRESS,B
+informasi tentang mengubah alamat pengiriman,change_shipping_address,SHIPPING_ADDRESS,B
+Saya ingin membantu mencoba mengubah alamat pengiriman,change_shipping_address,SHIPPING_ADDRESS,B
+masalah dengan perubahan alamat pengiriman,change_shipping_address,SHIPPING_ADDRESS,BM
+Kesalahan Mengubah Alamat Pengiriman,change_shipping_address,SHIPPING_ADDRESS,BKL
+Saya ingin bantuan mengubah alamat pengiriman,change_shipping_address,SHIPPING_ADDRESS,B
+Bantu saya mengubah alamat pengiriman saya,change_shipping_address,SHIPPING_ADDRESS,B
+Alamat pengiriman telah berubah,change_shipping_address,SHIPPING_ADDRESS,B
+Ceritakan lebih banyak tentang mengubah alamat pengiriman,change_shipping_address,SHIPPING_ADDRESS,B
+Saya tidak tahu bagaimana saya bisa mengubah alamat pengiriman,change_shipping_address,SHIPPING_ADDRESS,B
+Bagaimana cara mengubah alamat pengiriman?,change_shipping_address,SHIPPING_ADDRESS,BI
+Saya mencoba mengubah alamat pengiriman,change_shipping_address,SHIPPING_ADDRESS,B
+Di mana saya dapat mengubah alamat pengiriman?,change_shipping_address,SHIPPING_ADDRESS,BI
+saya membutuhkan informasi tentang mengubah alamat pengiriman saya,change_shipping_address,SHIPPING_ADDRESS,B
+Saya telah mengirimkan alamat pengiriman yang salah,change_shipping_address,SHIPPING_ADDRESS,BLQ
+Temukan informasi tentang mengubah alamat pengiriman,change_shipping_address,SHIPPING_ADDRESS,B
+Saya mencari informasi tentang modifikasi alamat AZN,change_shipping_address,SHIPPING_ADDRESS,BELZ
+Temukan informasi tentang mengubah alamat pengiriman saya,change_shipping_address,SHIPPING_ADDRESS,B
+Alamatnya telah disalurkan bagaimana saya bisa memperbaikinya,change_shipping_address,SHIPPING_ADDRESS,BCILQZ
+Bisakah Anda ceritakan tentang perubahan alamat pengiriman?,change_shipping_address,SHIPPING_ADDRESS,BIP
+Saya mengalami masalah memperbarui alamat pengiriman,change_shipping_address,SHIPPING_ADDRESS,BLM
+Bisakah Anda membantu saya memeriksa biaya pembatalan?,check_cancellation_fee,CANCELLATION_FEE,BI
+Butuh Bantuan Memeriksa Biaya Pembatalan,check_cancellation_fee,CANCELLATION_FEE,BMQ
+Saya tidak tahu apa yang harus saya lakukan untuk melihat biaya pembatalan,check_cancellation_fee,CANCELLATION_FEE,BLM
+Apakah mungkin untuk melihat hukuman terminasi awal,check_cancellation_fee,CANCELLATION_FEE,BILQ
+Lihat Biaya Pengakhiran Awal,check_cancellation_fee,CANCELLATION_FEE,BLM
+Bisakah Anda menunjukkan biaya pembatalan?,check_cancellation_fee,CANCELLATION_FEE,BIP
+ingin bantuan melihat hukuman terminasi,check_cancellation_fee,CANCELLATION_FEE,BLMQ
+di mana memeriksa biaya pembatalan?,check_cancellation_fee,CANCELLATION_FEE,BIM
+saya perlu bantuan memeriksa biaya pembatalan,check_cancellation_fee,CANCELLATION_FEE,B
+Saya harus memeriksa biaya pembatalan,check_cancellation_fee,CANCELLATION_FEE,BM
+Saya tidak dapat menemukan biaya pembatalan,check_cancellation_fee,CANCELLATION_FEE,BEM
+Berapa banyak Anda akan menagih saya untuk melanggar kontrak?,check_cancellation_fee,CANCELLATION_FEE,BI
+Saya tidak tahu apa yang harus dilakukan untuk memeriksa biaya penarikan,check_cancellation_fee,CANCELLATION_FEE,BL
+Saya tidak tahu apa yang harus dilakukan untuk memeriksa biaya penarikan,check_cancellation_fee,CANCELLATION_FEE,BELMQ
+Saya tidak tahu cara memeriksa biaya pembatalan,check_cancellation_fee,CANCELLATION_FEE,BM
+Saya harus melihat hukuman pembatalan,check_cancellation_fee,CANCELLATION_FEE,BL
+Saya tidak dapat menemukan biaya pembatalan,check_cancellation_fee,CANCELLATION_FEE,BM
+Saya harus memeriksa biaya penghentian bagaimana melakukannya,check_cancellation_fee,CANCELLATION_FEE,BCILMQ
+Saya butuh bantuan untuk memeriksa biaya pembatalan,check_cancellation_fee,CANCELLATION_FEE,BM
+Bantu saya untuk memeriksa biaya pembatalan,check_cancellation_fee,CANCELLATION_FEE,B
+Saya mencoba memeriksa biaya pembatalan,check_cancellation_fee,CANCELLATION_FEE,BM
+dapatkah saya memeriksa penalti keluar awal,check_cancellation_fee,CANCELLATION_FEE,BILMQW
+Saya butuh bantuan untuk melihat penalti keluar awal,check_cancellation_fee,CANCELLATION_FEE,BL
+Saya ingin bantuan melihat hukuman terminasi,check_cancellation_fee,CANCELLATION_FEE,BLMQ
+Saya tidak tahu bagaimana saya bisa melihat biaya penghentian awal,check_cancellation_fee,CANCELLATION_FEE,BELM
+ingin bantuan melihat penaltyh pembatalan,check_cancellation_fee,CANCELLATION_FEE,BLQZ
+Bagaimana cara menemukan faktur dari bulan lalu?,check_invoice,INVOICE,BI
+Memeriksa faktur dari dua pembelian yang lalu,check_invoice,INVOICE,BKM
+Bisakah Anda membantu saya menemukan faktur saya?,check_invoice,INVOICE,BIM
+Bagaimana menemukan faktur dari pembelian terakhir saya?,check_invoice,INVOICE,BIM
+Periksa faktur mulai September,check_invoice,INVOICE,BK
+Saya butuh bantuan untuk menemukan faktur dari 4 pembelian yang lalu,check_invoice,INVOICE,BM
+Bantuan Melihat Faktur Segera dari Januari,check_invoice,INVOICE,B
+Saya ingin menemukan faktur dari 2 bulan yang lalu,check_invoice,INVOICE,BM
+Bisakah saya melihat sekilas faktur dari enam bulan lalu?,check_invoice,INVOICE,BIM
+Saya tidak tahu bagaimana saya bisa melihat -lihat faktur saya cepat,check_invoice,INVOICE,B
+Bantuan untuk melihat sekilas faktur,check_invoice,INVOICE,BM
+Saya tidak dapat menemukan faktur dari tiga bulan lalu,check_invoice,INVOICE,BEM
+Saya ingin bantuan untuk menemukan faktur dari delapan pembelian yang lalu,check_invoice,INVOICE,BM
+Bantuan Memeriksa Faktur,check_invoice,INVOICE,BM
+Apakah mungkin menemukan faktur mulai November?,check_invoice,INVOICE,BI
+Saya tidak dapat menemukan faktur dari lima pembelian yang lalu,check_invoice,INVOICE,BM
+Temukan faktur dari bulan lalu,check_invoice,INVOICE,B
+Saya tidak tahu cara memeriksa faktur dari tiga bulan lalu,check_invoice,INVOICE,BM
+Saya perlu bantuan memeriksa faktur dari pembelian terakhir saya,check_invoice,INVOICE,B
+Bisakah saya melihat -lihat faktur saya dengan cepat?,check_invoice,INVOICE,BI
+Periksa faktur dari 5 pembelian yang lalu,check_invoice,INVOICE,BKM
+Bagaimana cara memeriksa faktur saya?,check_invoice,INVOICE,BI
+membantu melihat sekilas faktur dari bulan lalu,check_invoice,INVOICE,BM
+Saya tidak dapat menemukan faktur saya,check_invoice,INVOICE,BE
+Bagaimana cara memeriksa faktur mulai Agustus?,check_invoice,INVOICE,BIM
+Bantuan untuk memeriksa faktur,check_invoice,INVOICE,BM
+Di mana saya bisa melihat sekilas faktur saya?,check_invoice,INVOICE,BIMP
+Saya tidak tahu harus berbuat apa untuk menemukan faktur dari Januari,check_invoice,INVOICE,BM
+Saya butuh bantuan untuk menemukan faktur dari Februari,check_invoice,INVOICE,BM
+Saya tidak dapat menemukan faktur dari 11 bulan yang lalu,check_invoice,INVOICE,BEM
+Bisakah saya memeriksa faktur dari pembelian terakhir saya?,check_invoice,INVOICE,BIP
+Temukan faktur dari 7 bulan yang lalu,check_invoice,INVOICE,BM
+Memeriksa faktur dari 3 pembelian yang lalu,check_invoice,INVOICE,BKM
+Saya tidak dapat menemukan faktur dari Februari,check_invoice,INVOICE,BE
+Memeriksa faktur dari 11 bulan lalu,check_invoice,INVOICE,BKM
+Saya ingin memeriksa metode pembayaran yang diizinkan,check_payment_methods,PAYMENT,B
+Saya harus memeriksa metode pembayaran apa yang tersedia,check_payment_methods,PAYMENT,B
+Di mana saya dapat memeriksa metode pembayaran apa yang Anda terima?,check_payment_methods,PAYMENT,BI
+Bisakah Anda menunjukkan kepada saya metode pembayaran yang diizinkan?,check_payment_methods,PAYMENT,BI
+Saya perlu bantuan cchecking metode pembayaran yang tersedia Anda,check_payment_methods,PAYMENT,BLZ
+Saya perlu bantuan melihat metode pembayaran yang tersedia,check_payment_methods,PAYMENT,BL
+Saya ingin melihat metode pembayaran,check_payment_methods,PAYMENT,BLZ
+Bisakah saya memeriksa metode pembayaran apa yang tersedia?,check_payment_methods,PAYMENT,BI
+metode pembayaran yang diizinkan,check_payment_methods,PAYMENT,BK
+Saya harus memeriksa opsi pembayaran apa yang diterima,check_payment_methods,PAYMENT,BLQ
+Bagaimana saya bisa memeriksa metode pembayaran apa yang tersedia?,check_payment_methods,PAYMENT,BIP
+Apakah mungkin untuk melihat metode pembayaran apa yang tersedia?,check_payment_methods,PAYMENT,BIL
+dapatkah saya menggunakan metode pembayaran yang diizinkan,check_payment_methods,PAYMENT,BIQZ
+Saya ingin bantuan untuk melihat opsi pembayaran apa yang diizinkan,check_payment_methods,PAYMENT,BL
+Saya ingin bantuan untuk memeriksa metode pembayaran apa yang Anda terima,check_payment_methods,PAYMENT,B
+Saya tidak tahu bagaimana saya bisa melihat opsi pembayaran yang tersedia,check_payment_methods,PAYMENT,BL
+Saya ingin bantuan untuk mencantumkan opsi pembayaran yang diizinkan,check_payment_methods,PAYMENT,BL
+Saya perlu bantuan memeriksa metode pembayaran yang diizinkan,check_payment_methods,PAYMENT,B
+Saya tidak tahu bagaimana saya bisa memeriksa metode pembayaran yang diizinkan,check_payment_methods,PAYMENT,BEP
+Perlu mendaftar opsi pembayaran yang diizinkan Anda dapat menggagalkan saya,check_payment_methods,PAYMENT,BCILQ
+Perlu daftar opsi pembayaran yang diterima bagaimana saya bisa melakukannya,check_payment_methods,PAYMENT,BCILQZ
+Periksa metode pembayaran apa yang tersedia,check_payment_methods,PAYMENT,B
+Saya ingin assistanceto memeriksa metode pembayaran yang tersedia,check_payment_methods,PAYMENT,BLQZ
+Di mana saya mencantumkan metode pembayaran yang diizinkan berdarah?,check_payment_methods,PAYMENT,BILW
+Bisakah Anda membantu saya mendaftarkan opsi pembayaran yang diizinkan?,check_payment_methods,PAYMENT,BIL
+Berapa lama pengembalian uang biasanya dibutuhkan?,check_refund_policy,REFUND,BI
+Di mana memeriksa kebijakan kembali uang Anda?,check_refund_policy,REFUND,BI
+Bisakah Anda membantu saya memeriksa kebijakan pengembalian dana Anda?,check_refund_policy,REFUND,BIP
+Di mana saya bisa memeriksa kebijakan kembali uang Anda?,check_refund_policy,REFUND,BIP
+periksa kasus apa yang bisa saya minta uang saya kembali,check_refund_policy,REFUND,B
+Bisakah Anda membantu saya memeriksa kebijakan kembali uang Anda?,check_refund_policy,REFUND,BI
+Saya harus memeriksa kasus apa yang bisa saya minta pengembalian dana,check_refund_policy,REFUND,B
+Bantuan Memeriksa Kasus Apa yang Dapat Saya Minta Pengembalian dana,check_refund_policy,REFUND,B
+Saya perlu bantuan untuk memeriksa berapa lama pengembalian uang yang dibutuhkan,check_refund_policy,REFUND,B
+Saya tidak dapat memeriksa kebijakan pengembalian dana Anda,check_refund_policy,REFUND,BE
+Maukah Anda menunjukkan kepada saya berapa lama pengembalian uang biasanya?,check_refund_policy,REFUND,BIP
+Saya mencoba memeriksa kebijakan kembali uang Anda,check_refund_policy,REFUND,B
+Saya tidak dapat memeriksa kebijakan kembali uang Anda,check_refund_policy,REFUND,B
+Saya perlu memeriksa kebijakan pengembalian dana Anda,check_refund_policy,REFUND,B
+Saya ingin memeriksa kasus apa yang dapat saya minta untuk dikembalikan,check_refund_policy,REFUND,BP
+Bantu saya untuk memeriksa kebijakan uang Anda,check_refund_policy,REFUND,B
+Di mana saya dapat memeriksa kebijakan uang Anda?,check_refund_policy,REFUND,BI
+Saya perlu memeriksa berapa lama pengembalian uang biasanya,check_refund_policy,REFUND,B
+Saya perlu bantuan memeriksa kebijakan kembali uang Anda,check_refund_policy,REFUND,B
+Saya butuh bantuan untuk memeriksa kasus apa yang dapat saya minta untuk dikembalikan,check_refund_policy,REFUND,B
+Maukah Anda menunjukkan kepada saya dalam kasus apa saya dapat meminta pengembalian uang?,check_refund_policy,REFUND,BIP
+Tunjukkan pada saya dalam keadaan apa saya dapat meminta pengembalian dana,check_refund_policy,REFUND,B
+Saya ingin memeriksa kebijakan kembali uang Anda,check_refund_policy,REFUND,B
+Bisakah Anda menunjukkan kepada saya berapa lama pengembalian uang?,check_refund_policy,REFUND,BIP
+Saya tidak dapat memeriksa kebijakan pengembalian dana Anda,check_refund_policy,REFUND,B
+membutuhkan bantuan untuk mengajukan keluhan terhadap organisasi Anda,complaint,FEEDBACK,BLQ
+membuat klaim pelanggan,complaint,FEEDBACK,BKL
+Di mana mengajukan keluhan terhadap bisnis Anda?,complaint,FEEDBACK,BI
+"Saya tidak senang dengan layanan Anda, saya ingin mengajukan reklamasi",complaint,FEEDBACK,BCELQ
+Di mana saya bisa mengajukan keluhan terhadap bisnis Anda?,complaint,FEEDBACK,BIP
+Saya ingin mengajukan klaim pelanggan terhadap perusahaan Anda,complaint,FEEDBACK,BLP
+di mana mengajukan klaim konsumen,complaint,FEEDBACK,BILQZ
+Bisakah Anda membantu saya mengajukan klaim terhadap organisasi Anda?,complaint,FEEDBACK,BIL
+ingin bantuan mengajukan reklamasi pelanggan,complaint,FEEDBACK,BLQ
+Saya mencoba mengajukan reklamasi pelanggan,complaint,FEEDBACK,BL
+Saya tidak tahu bagaimana membuat klaim kustomr,complaint,FEEDBACK,BELQZ
+"Saya tidak senang dengan pekerjaan Anda, saya ingin mengajukan keluhan",complaint,FEEDBACK,BCELQ
+Saya harus mengajukan keluhan terhadap bisnis Anda,complaint,FEEDBACK,B
+ingin bantuan membuat reklamasi konsumen terhadap bisnis Anda,complaint,FEEDBACK,BLQ
+Klaim Pelanggan Lodge Terhadap Perusahaan Anda,complaint,FEEDBACK,BKL
+Di mana saya mengajukan klaim terhadap organisasi Anda,complaint,FEEDBACK,BILQ
+saya mencoba mengajukan keluhan,complaint,FEEDBACK,B
+Saya menelepon untuk mendapatkan klaim terhadap organisasi Anda,complaint,FEEDBACK,BLZ
+di mana mengajukan keluhan pelanggan terhadap bisnis Anda,complaint,FEEDBACK,BILQ
+perlu mengajukan klaim pelanggan terhadap perusahaan Anda,complaint,FEEDBACK,BLQ
+Bisakah saya mengajukan keluhan terhadap bisnis Anda?,complaint,FEEDBACK,BIP
+Saya tidak senang dengan layanan Anda bagaimana saya bisa membuat reklamasi,complaint,FEEDBACK,BCEILQ
+Bagaimana saya bisa mengajukan keluhan terhadap bisnis Anda?,complaint,FEEDBACK,BIP
+Saya ingin memeriksa jam berapa saya dapat menghubungi layanan pelanggan,contact_customer_service,CONTACT,B
+Saya harus menghubungi layanan pelanggan,contact_customer_service,CONTACT,B
+Bantu saya untuk memeriksa jam berapa saya dapat menghubungi layanan pelanggan,contact_customer_service,CONTACT,B
+Ya Have A GRATIS TIDAK UNTUK MENYUKAI DUKUNGAN PELANGGAN,contact_customer_service,CONTACT,BILQZ
+Bantu saya memeriksa jam berapa saya dapat menghubungi bantuan pelanggan,contact_customer_service,CONTACT,BL
+saya tidak tahu bagaimana berbicara dengan bantuan pelanggan,contact_customer_service,CONTACT,BLQW
+Di mana saya dapat memeriksa jam berapa layanan pelanggan yang tersedia?,contact_customer_service,CONTACT,BI
+Saya tidak tahu bagaimana saya bisa menghubungi layanan pelanggan,contact_customer_service,CONTACT,BP
+"Saya ingin menelepon dukungan pelanggan, dapatkah Anda membantu saya?",contact_customer_service,CONTACT,BCIL
+"Saya harus menghubungi Layanan Custoner, dapatkah Anda membantu saya?",contact_customer_service,CONTACT,BCIZ
+Bagaimana saya bisa memeriksa jam berapa saya dapat menghubungi layanan pelanggan?,contact_customer_service,CONTACT,BIP
+Bantuan untuk memeriksa jam berapa saya dapat mencapai bantuan pelanggan,contact_customer_service,CONTACT,BL
+membantu memeriksa jam berapa saya dapat mencapai layanan pelanggan,contact_customer_service,CONTACT,BLQ
+Bagaimana cara memeriksa jam berapa layanan pelanggan yang tersedia?,contact_customer_service,CONTACT,BI
+Bisakah saya berbicara dengan layanan pelanggan?,contact_customer_service,CONTACT,BIL
+Bisakah Anda menunjukkan kepada saya jam berapa saya dapat menghubungi layanan pelanggan?,contact_customer_service,CONTACT,BI
+membantu memeriksa jam berapa saya dapat menghubungi layanan pelanggan,contact_customer_service,CONTACT,B
+Bagaimana cara menghubungi layanan pelanggan?,contact_customer_service,CONTACT,BI
+Di mana harus memeriksa jam berapa layanan pelanggan tersedia?,contact_customer_service,CONTACT,BI
+Saya tidak tahu apa yang harus saya lakukan untuk contcat dukungan pelanggan,contact_customer_service,CONTACT,BLZ
+Bisakah Anda membantu saya berbicara dengan bantuan pelanggan?,contact_customer_service,CONTACT,BIL
+Saya tidak tahu apa yang perlu saya lakukan untuk memanggil bantuan pelanggan,contact_customer_service,CONTACT,BL
+saya tidak bisa berbicara dengan agen,contact_human_agent,CONTACT,B
+Bantu saya berbicara dengan seorang agen,contact_human_agent,CONTACT,B
+Saya ingin bantuan berbicara dengan agen manusia,contact_human_agent,CONTACT,BL
+Saya ingin bantuan berbicara dengan seseorang,contact_human_agent,CONTACT,BLQ
+Bisakah Anda mentransfer kepada saya seorang agen?,contact_human_agent,CONTACT,BIP
+saya butuh bantuan menghubungi agen,contact_human_agent,CONTACT,B
+Bagaimana cara berbicara dengan agen langsung?,contact_human_agent,CONTACT,BILZ
+membantu mengobrol dengan seseorang,contact_human_agent,CONTACT,BLZ
+saya tidak tahu bagaimana saya bisa menghubungi seseorang,contact_human_agent,CONTACT,BLQ
+Apa yang harus saya lakukan untuk menghubungi agen?,contact_human_agent,CONTACT,BI
+Saya tidak mengerti Anda membantu saya berbicara dengan agen manusia,contact_human_agent,CONTACT,BCELQ
+tidak membantu ca uhelp saya mengobrol dengan agen,contact_human_agent,CONTACT,BCEILQZ
+Saya mencoba berbicara dengan agen,contact_human_agent,CONTACT,B
+"Anda tidak membantu, bagaimana cara mengobrol dengan seseorang?",contact_human_agent,CONTACT,BCEIL
+Saya tidak tahu apa yang harus saya lakukan untuk berbicara dengan agen,contact_human_agent,CONTACT,BE
+Saya tidak mengerti ya saya telah melakukan tocontact orang terkutuk,contact_human_agent,CONTACT,BCELQWZ
+Perlu menghubungi orang sialan,contact_human_agent,CONTACT,BLQW
+saya perlu berbicara dengan agen,contact_human_agent,CONTACT,B
+saya butuh bantuan untuk berbicara dengan agen,contact_human_agent,CONTACT,B
+Bisakah saya menghubungi agen?,contact_human_agent,CONTACT,BI
+Bisakah Anda membantu saya menghubungi agen?,contact_human_agent,CONTACT,BI
+Bagaimana cara menghubungi agen?,contact_human_agent,CONTACT,BI
+Bantu saya berbicara dengan agen manusia,contact_human_agent,CONTACT,BL
+Saya tidak tahu bagaimana saya bisa menghubungi agen,contact_human_agent,CONTACT,B
+Saya mencoba berbicara dengan seorang agen,contact_human_agent,CONTACT,BL
+Ingin berbicara dengan asisten,contact_human_agent,CONTACT,BLQZ
+Apa yang perlu saya lakukan untuk berbicara dengan agen langsung?,contact_human_agent,CONTACT,BIL
+Saya tidak tahu bagaimana berbicara dengan seseorang,contact_human_agent,CONTACT,BELQ
+Saya mencoba berbicara dengan agen,contact_human_agent,CONTACT,B
+membantu menghubungi agen,contact_human_agent,CONTACT,B
+Saya membutuhkan bantuan untuk membuka akun online baru,create_account,ACCOUNT,BL
+Bantuan Membuat Akun,create_account,ACCOUNT,B
+Saya ingin bantuan membuat akun online yang berbeda untuk anak saya,create_account,ACCOUNT,BLQ
+Bantu saya membuat akun,create_account,ACCOUNT,B
+Apa yang perlu saya lakukan untuk mendaftar,create_account,ACCOUNT,BILQ
+Membuat akun online lain untuk ayah,create_account,ACCOUNT,BL
+Saya tidak tahu apa yang perlu saya lakukan untuk mendaftar,create_account,ACCOUNT,B
+saya mencoba membuat akun,create_account,ACCOUNT,B
+Ingin bantuan membuat akun baru yang berdarah,create_account,ACCOUNT,BLQW
+saya butuh bantuan untuk mendaftar,create_account,ACCOUNT,B
+Bisakah Anda membantu saya mendaftar?,create_account,ACCOUNT,BIP
+saya tidak tahu bagaimana saya bisa mendaftarkan ayah saya,create_account,ACCOUNT,BLQZ
+Apa yang perlu saya lakukan untuk membuat akun emas?,create_account,ACCOUNT,BILZ
+Apa yang harus saya lakukan untuk membuka akun dasar untuk suami saya?,create_account,ACCOUNT,BIL
+Saya tidak tahu bagaimana saya bisa membuat akun standar lain,create_account,ACCOUNT,BLP
+Bisakah Anda membantu saya mendaftar?,create_account,ACCOUNT,BI
+Saya tidak tahu harus berbuat apa untuk membuka akun online lain,create_account,ACCOUNT,BELQ
+Butuh Bantuan Membuat Akun Freemium Baru Untuk Ibu Saya,create_account,ACCOUNT,BLQ
+Bisakah Anda membantu saya mendaftar?,create_account,ACCOUNT,BIP
+Saya harus membuat akun online baru untuk ibu saya,create_account,ACCOUNT,BL
+Saya tidak tahu cara membuat akun dasar,create_account,ACCOUNT,BL
+membantu membuat akun,create_account,ACCOUNT,B
+Bagaimana cara membuat akun pengguna baru?,create_account,ACCOUNT,BILZ
+saya butuh bantuan mendaftar,create_account,ACCOUNT,B
+"Saya belum memiliki akun online, bantu saya membuatnya",create_account,ACCOUNT,BCEL
+Buat akun pengguna baru untuk anak perempuan,create_account,ACCOUNT,BKL
+Saya tidak tahu apa yang harus saya lakukan untuk mendaftar,create_account,ACCOUNT,BE
+saya mencoba mendaftar,create_account,ACCOUNT,B
+Bantu saya untuk mendaftar,create_account,ACCOUNT,B
+Saya mencoba membuka akun emas,create_account,ACCOUNT,BL
+Saya mencoba membuka akun yang berbeda untuk ayah saya,create_account,ACCOUNT,BLQ
+Saya tidak tahu bagaimana saya bisa membuat akun,create_account,ACCOUNT,B
+Bantu saya membuka akun,create_account,ACCOUNT,BL
+Saya perlu membuat akun online yang berbeda,create_account,ACCOUNT,BL
+Saya ingin bantuan untuk membuka akun yang berbeda untuk ayah saya,create_account,ACCOUNT,BL
+Saya ingin mendaftar,create_account,ACCOUNT,BP
+masalah dengan penghapusan akun pengguna,delete_account,ACCOUNT,BM
+membantu menghapus akun,delete_account,ACCOUNT,B
+Bisakah Anda membantu saya menghapus akun?,delete_account,ACCOUNT,BI
+saya ingin bantuan menghapus akun pengguna saya,delete_account,ACCOUNT,BL
+Bagaimana saya bisa mendapatkan informasi tentang penghapusan akun pengguna?,delete_account,ACCOUNT,BIMP
+Bisakah saya menghapus akun?,delete_account,ACCOUNT,BIP
+Saya memiliki pertanyaan tentang penghapusan akun pengguna,delete_account,ACCOUNT,BM
+saya perlu bantuan menutup akun,delete_account,ACCOUNT,BLQ
+Bagaimana cara menghapus akun?,delete_account,ACCOUNT,BI
+Saya tidak tahu bagaimana saya bisa menghapus akun saya,delete_account,ACCOUNT,BE
+Dapatkah saya tentang penghapusan akun pengguna,delete_account,ACCOUNT,BIMQ
+Bisakah Anda memberi saya informasi tentang penghapusan akun pengguna?,delete_account,ACCOUNT,BI
+Saya tidak tahu harus berbuat apa untuk menghapus akun,delete_account,ACCOUNT,BE
+Saya memiliki masalah dengan penghapusan akun pengguna,delete_account,ACCOUNT,BM
+bisakah ya ceritakan tentang penghapusan akun pengguna,delete_account,ACCOUNT,BILQZ
+Saya harus menghapus akun,delete_account,ACCOUNT,B
+Bisakah Anda memberi saya informasi tentang pemindahan akun?,delete_account,ACCOUNT,BILM
+bagaimana saya bisa membatalkan akun,delete_account,ACCOUNT,BILQ
+Saya tidak tahu apa yang harus saya lakukan untuk menghapus akun,delete_account,ACCOUNT,BE
+dapatkah saya lebih banyak tentang pembatalan akun,delete_account,ACCOUNT,BILMQ
+Maukah Anda memberi saya informasi tentang penghapusan akun pengguna?,delete_account,ACCOUNT,BIP
+Butuh Bantuan Menghapus Akun Pengguna,delete_account,ACCOUNT,BLQW
+Ceritakan tentang penghapusan akun pengguna,delete_account,ACCOUNT,BM
+Saya tidak pernah menggunakan akun online terkutuk membantu saya,delete_account,ACCOUNT,BCELQWZ
+Ceritakan lebih banyak tentang penghapusan akun pengguna,delete_account,ACCOUNT,BM
+Pertanyaan tentang penghapusan akun pengguna,delete_account,ACCOUNT,BM
+Saya memiliki masalah dengan penghapusan akun pengguna,delete_account,ACCOUNT,B
+Bisakah saya menghapus akun?,delete_account,ACCOUNT,BIP
+saya tidak tahu apa yang perlu saya lakukan untuk menutup akun,delete_account,ACCOUNT,BLQ
+Saya ingin bantuan menghapus akun saya,delete_account,ACCOUNT,B
+Bantu saya menghapus akun,delete_account,ACCOUNT,B
+Di mana saya dapat menemukan informasi tentang penghapusan akun pengguna?,delete_account,ACCOUNT,BIMP
+saya perlu bantuan membatalkan acfcount online,delete_account,ACCOUNT,BLQZ
+Bisakah Anda memberi saya informasi tentang opsi pengiriman?,delivery_options,DELIVERY,BI
+Beri saya informasi tentang opsi pengiriman,delivery_options,DELIVERY,B
+Di mana memeriksa opsi pengiriman?,delivery_options,DELIVERY,BI
+Bisakah Anda membantu saya memeriksa opsi pengiriman?,delivery_options,DELIVERY,BIP
+Bantu saya untuk memeriksa opsi pengiriman apa yang dapat saya pilih,delivery_options,DELIVERY,BM
+Saya menelepon untuk memeriksa opsi pengiriman apa yang saya miliki,delivery_options,DELIVERY,BM
+Saya ingin bantuan memeriksa opsi apa yang tersedia untuk pengiriman,delivery_options,DELIVERY,BM
+Saya ingin bantuan untuk memeriksa opsi pengiriman apa yang saya miliki,delivery_options,DELIVERY,BM
+Di mana saya dapat memeriksa opsi pengiriman apa yang tersedia?,delivery_options,DELIVERY,BIM
+Di mana saya bisa mendapatkan informasi tentang opsi untuk pengiriman?,delivery_options,DELIVERY,BI
+Saya mencoba memeriksa opsi pengiriman apa yang Anda tawarkan,delivery_options,DELIVERY,BM
+Saya harus memeriksa opsi pengiriman apa yang dapat saya pilih,delivery_options,DELIVERY,BM
+Maukah Anda menunjukkan kepada saya opsi pengiriman apa yang saya miliki?,delivery_options,DELIVERY,BIMP
+saya mencoba memeriksa opsi pengiriman apa yang saya miliki,delivery_options,DELIVERY,BM
+Bagaimana cara memeriksa opsi apa untuk pengiriman yang Anda tawarkan?,delivery_options,DELIVERY,BIM
+Saya punya masalah dengan opsi pengiriman,delivery_options,DELIVERY,B
+Bisakah Anda membantu saya memeriksa opsi pengiriman apa yang tersedia?,delivery_options,DELIVERY,BIMP
+Bisakah Anda menunjukkan kepada saya opsi pengiriman?,delivery_options,DELIVERY,BIP
+Bisakah Anda membantu saya memeriksa opsi pengiriman apa yang Anda tawarkan?,delivery_options,DELIVERY,BIM
+Bantuan untuk memeriksa opsi pengiriman,delivery_options,DELIVERY,B
+Di mana saya bisa memeriksa opsi pengiriman?,delivery_options,DELIVERY,BIP
+Di mana saya memeriksa opsi pengiriman apa yang Anda tawarkan?,delivery_options,DELIVERY,BIM
+masalah dengan opsi pengiriman,delivery_options,DELIVERY,B
+Di mana memeriksa opsi apa untuk pengiriman yang Anda tawarkan?,delivery_options,DELIVERY,BIM
+Bantuan untuk memeriksa opsi pengiriman apa yang tersedia,delivery_options,DELIVERY,BM
+Saya ingin bantuan untuk memeriksa opsi pengiriman apa yang saya miliki,delivery_options,DELIVERY,BM
+Saya ingin memeriksa opsi pengiriman apa yang saya miliki,delivery_options,DELIVERY,BM
+saya memerlukan informasi tentang opsi pengiriman,delivery_options,DELIVERY,B
+Saya ingin bantuan memeriksa opsi apa yang saya miliki,delivery_options,DELIVERY,BM
+Maukah Anda menunjukkan kepada saya opsi apa untuk pengiriman yang Anda tawarkan?,delivery_options,DELIVERY,BIMP
+bantuan memeriksa opsi pengiriman apa yang Anda tawarkan,delivery_options,DELIVERY,BM
+Opsi pengiriman apa yang Anda tawarkan?,delivery_options,DELIVERY,BIM
+Bantuan memeriksa opsi pengiriman apa yang tersedia,delivery_options,DELIVERY,BM
+Bagaimana saya dapat menemukan informasi tentang opsi pengiriman?,delivery_options,DELIVERY,BI
+Di mana saya bisa mendapatkan informasi tentang periode pengiriman?,delivery_period,DELIVERY,BIMP
+Bagaimana cara memeriksa seberapa cepat saya bisa mengharapkan item itu?,delivery_period,DELIVERY,BI
+membantu memeriksa kapan barang saya akan tiba,delivery_period,DELIVERY,B
+Saya mencari informasi tentang periode pengiriman,delivery_period,DELIVERY,BE
+Bisakah Anda ceritakan tentang periode pengiriman?,delivery_period,DELIVERY,BIP
+Saya tidak tahu bagaimana memeriksa seberapa cepat saya bisa mengharapkan item tersebut,delivery_period,DELIVERY,BE
+Bagaimana saya bisa mendapatkan informasi tentang periode pengiriman?,delivery_period,DELIVERY,BIMP
+Bantu saya untuk memeriksa kapan barang saya akan tiba,delivery_period,DELIVERY,B
+Beri saya informasi tentang periode pengiriman,delivery_period,DELIVERY,B
+Saya ingin memeriksa berapa lama pengirimannya,delivery_period,DELIVERY,BP
+Bisakah Anda membantu saya memeriksa kapan barang saya akan tiba?,delivery_period,DELIVERY,BI
+Bagaimana saya bisa menemukan informasi tentang periode pengiriman?,delivery_period,DELIVERY,BIM
+Bisakah Anda ceritakan lebih banyak tentang periode pengiriman?,delivery_period,DELIVERY,BIMP
+Bagaimana saya bisa memeriksa kapan pengiriman saya akan tiba?,delivery_period,DELIVERY,BIP
+Di mana saya bisa mendapatkan informasi tentang periode pengiriman?,delivery_period,DELIVERY,BIM
+Periksa Bantuan Kapan barang saya akan tiba,delivery_period,DELIVERY,B
+Saya butuh bantuan untuk memeriksa berapa lama pengirimannya,delivery_period,DELIVERY,B
+Saya harus memeriksa seberapa cepat saya bisa mengharapkan pengiriman,delivery_period,DELIVERY,B
+Bisakah Anda membantu saya memeriksa kapan barang saya akan tiba?,delivery_period,DELIVERY,BIP
+Saya mencoba memeriksa kapan barang saya akan tiba,delivery_period,DELIVERY,B
+Bantu saya untuk memeriksa kapan barang saya akan tiba,delivery_period,DELIVERY,B
+Saya harus memeriksa seberapa cepat saya bisa mengharapkan item tersebut,delivery_period,DELIVERY,B
+Saya ingin tahu lebih banyak tentang periode pengiriman,delivery_period,DELIVERY,B
+Saya ingin tahu tentang periode pengiriman,delivery_period,DELIVERY,B
+saya membutuhkan informasi tentang periode pengiriman,delivery_period,DELIVERY,B
+Apakah mungkin untuk memeriksa kapan barang saya akan tiba?,delivery_period,DELIVERY,BI
+Di mana saya bisa memeriksa seberapa cepat saya bisa mengharapkan item itu?,delivery_period,DELIVERY,BI
+Saya ingin asisstance mengubah beberapa detail pengguna saya,edit_account,ACCOUNT,BLMZ
+Bantuan Mengedit Informasi Pribadi Saya,edit_account,ACCOUNT,B
+bagaimana cara mengubah beberapa detail pengguna saya,edit_account,ACCOUNT,BILMQ
+"Saya ingin memperbarui informasi di akun pengguna saya, bantu saya",edit_account,ACCOUNT,BCL
+"Saya perlu memperbarui akun saya, bagaimana cara melakukannya?",edit_account,ACCOUNT,BCIL
+Bantu saya mengedit informasi di akun saya,edit_account,ACCOUNT,B
+Apa yang perlu saya lakukan untuk mengedit informasi di akun saya?,edit_account,ACCOUNT,BI
+Apa yang harus saya lakukan untuk mengedit informasi di akun saya?,edit_account,ACCOUNT,BI
+Butuh bantuan untuk memperbaiki detail yang disertakan di profil pengguna saya,edit_account,ACCOUNT,BLMQ
+"Saya harus memperbaiki informasi pengguna saya, bagaimana saya bisa melakukannya?",edit_account,ACCOUNT,BCIL
+saya perlu bantuan mengedit informasi pribadi saya,edit_account,ACCOUNT,B
+Saya mencoba mengedit informasi di akun saya,edit_account,ACCOUNT,B
+Saya tidak tahu harus berbuat apa untuk mengubah data pengguna saya,edit_account,ACCOUNT,BELQ
+saya perlu bantuan untuk memperbarui data pengguna,edit_account,ACCOUNT,BLQ
+Bagaimana cara mengedit informasi di akun saya?,edit_account,ACCOUNT,BI
+akun pengeditan,edit_account,ACCOUNT,BK
+Saya tidak tahu harus apa untuk memperbarui info pribadi saya,edit_account,ACCOUNT,BELQZ
+Bagaimana cara mengedit informasi pribadi saya?,edit_account,ACCOUNT,BI
+"Saya ingin mengubah info pribadi saya, bagaimana saya bisa melakukannya?",edit_account,ACCOUNT,BCILQ
+saya perlu bantuan untuk memodifikasi info yang disertakan di akun saya,edit_account,ACCOUNT,BLQ
+Bisakah Anda membantu saya mengedit informasi pribadi saya?,edit_account,ACCOUNT,BI
+Saya mencoba memperbaiki informasi pribadi saya,edit_account,ACCOUNT,BL
+Bagaimana cara memperbaiki data di profil pengguna saya?,edit_account,ACCOUNT,BIL
+Edit informasi pribadi,edit_account,ACCOUNT,BK
+Apakah mungkin untuk memodifikasi data USERR saya,edit_account,ACCOUNT,BILQZ
+saya perlu bantuan untuk memodifikasi informasi yang disertakan di profil saya,edit_account,ACCOUNT,BL
+Apakah mungkin untuk mendapatkan faktur dari bulan lalu?,get_invoice,INVOICE,BIMP
+Bisakah Anda membantu saya mendapatkan faktur dari bulan lalu?,get_invoice,INVOICE,BIP
+Saya ingin bantuan untuk mendapatkan faktur dari 6 pembelian yang lalu,get_invoice,INVOICE,BM
+Saya butuh bantuan untuk mendapatkan faktur dari pembelian terakhir saya,get_invoice,INVOICE,B
+membantu mendapatkan faktur dari 10 bulan yang lalu,get_invoice,INVOICE,BM
+Saya butuh bantuan untuk mendapatkan faktur dari satu pembelian yang lalu,get_invoice,INVOICE,BM
+Saya ingin bantuan mendapatkan faktur dari empat bulan lalu,get_invoice,INVOICE,BM
+Kirimkan saya faktur dari pembelian terakhir saya,get_invoice,INVOICE,BM
+Bantuan untuk mendapatkan faktur,get_invoice,INVOICE,B
+Saya tidak tahu bagaimana mendapatkan faktur dari sebelas bulan yang lalu,get_invoice,INVOICE,BEM
+Bantu saya mendapatkan faktur mulai April,get_invoice,INVOICE,BM
+Apa yang harus saya lakukan untuk mendapatkan faktur saya?,get_invoice,INVOICE,BI
+Saya tidak tahu harus berbuat apa untuk mendapatkan faktur saya,get_invoice,INVOICE,BEM
+Saya ingin bantuan untuk mendapatkan faktur dari bulan lalu,get_invoice,INVOICE,B
+Saya menelepon untuk mendapatkan faktur dari 7 bulan yang lalu,get_invoice,INVOICE,BM
+Bisakah Anda membantu saya mendapatkan faktur saya?,get_invoice,INVOICE,BIP
+Bantu saya untuk mendapatkan faktur,get_invoice,INVOICE,BM
+Saya tidak tahu bagaimana saya bisa mendapatkan faktur dari Januari,get_invoice,INVOICE,BEP
+Bisakah Anda membantu saya mendapatkan faktur?,get_invoice,INVOICE,BIM
+Mendapatkan faktur dari 1 pembelian yang lalu,get_invoice,INVOICE,BKM
+Bagaimana cara mendapatkan faktur dari Agustus?,get_invoice,INVOICE,BIM
+Saya tidak tahu bagaimana saya bisa mendapatkan faktur dari Agustus,get_invoice,INVOICE,BE
+Saya mencoba mendapatkan faktur,get_invoice,INVOICE,BM
+Di mana saya bisa mendapatkan faktur dari pembelian terakhir saya?,get_invoice,INVOICE,BIP
+Saya mencoba mendapatkan faktur dari pembelian terakhir saya,get_invoice,INVOICE,B
+Saya ingin bantuan mendapatkan pengembalian uang,get_refund,REFUND,BM
+Saya tidak tahu apa yang perlu saya lakukan untuk mendapatkan pengembalian dana,get_refund,REFUND,BE
+Saya ingin bantuan untuk mendapatkan uang saya kembali,get_refund,REFUND,B
+Saya harus mendapatkan pengembalian dana,get_refund,REFUND,B
+Bisakah Anda membantu saya mendapatkan uang saya kembali?,get_refund,REFUND,BI
+Berapa lama sampai saya mendapatkan pengembalian dana?,get_refund,REFUND,BI
+Bisakah Anda membantu saya mendapatkan pengembalian dana?,get_refund,REFUND,BI
+Saya ingin mendapatkan pengembalian uang,get_refund,REFUND,BMP
+Kapan saya akan mendapatkan uang saya kembali?,get_refund,REFUND,BI
+Apa yang perlu saya lakukan untuk mendapatkan pengembalian uang?,get_refund,REFUND,BI
+Saya mencoba mendapatkan pengembalian dana,get_refund,REFUND,B
+Saya butuh bantuan untuk mendapatkan pengembalian uang,get_refund,REFUND,BM
+Saya perlu mendapatkan pengembalian uang,get_refund,REFUND,BM
+"Saya perlu meminta kompensasi, dapatkah Anda membantu saya?",get_refund,REFUND,BCILM
+Di mana saya bisa mendapatkan pengembalian dana?,get_refund,REFUND,BI
+Saya perlu mendapatkan pengembalian dana,get_refund,REFUND,B
+Bisakah Anda membantu saya mendapatkan pengembalian dana?,get_refund,REFUND,BI
+Bantuan mendapatkan pengembalian uang,get_refund,REFUND,B
+Bisakah Anda membantu saya mendapatkan pengembalian uang?,get_refund,REFUND,BIM
+Apakah mungkin untuk mendapatkan pengembalian uang?,get_refund,REFUND,BIM
+Apakah mungkin untuk mendapatkan pengembalian uang?,get_refund,REFUND,BIM
+Bagaimana cara mendapatkan pengembalian dana?,get_refund,REFUND,BI
+mendapatkan uang kembali,get_refund,REFUND,BK
+Saya mencoba mendapatkan uang saya kembali,get_refund,REFUND,B
+Mendapatkan Pengembalian Uang,get_refund,REFUND,BK
+Saya tidak tahu bagaimana mendapatkan pengembalian uang,get_refund,REFUND,BEM
+Bisakah Anda membantu saya mendapatkan pengembalian uang?,get_refund,REFUND,BIM
+Saya butuh bantuan untuk berlangganan buletin perusahaan Anda,newsletter_subscription,NEWSLETTER,B
+Saya ingin berlangganan buletin perusahaan Anda,newsletter_subscription,NEWSLETTER,BP
+bisakah ya membantu saya menerima buletin berdarah,newsletter_subscription,NEWSLETTER,BILPQW
+Saya mencoba membatalkan langganan buletin perusahaan,newsletter_subscription,NEWSLETTER,B
+Bantuan untuk berhenti berlangganan buletin perusahaan Anda,newsletter_subscription,NEWSLETTER,BL
+Can Utell More tentang langganan buletin berdarah saya,newsletter_subscription,NEWSLETTER,BILQW
+Saya ingin informasi tentang berlangganan buletin,newsletter_subscription,NEWSLETTER,BL
+Saya tidak tahu bagaimana saya bisa berlangganan buletin perusahaan Anda,newsletter_subscription,NEWSLETTER,BE
+Bantuan untuk membatalkan langganan buletin perusahaan,newsletter_subscription,NEWSLETTER,B
+Bisakah Anda membantu saya berlangganan buletin perusahaan Anda?,newsletter_subscription,NEWSLETTER,BIP
+Saya harus berhenti berlangganan buletin dapat menggerogoti saya,newsletter_subscription,NEWSLETTER,BCILQZ
+Saya harus membatalkan langganan buletin perusahaan,newsletter_subscription,NEWSLETTER,BL
+ingin bantuan membatalkan langganan ke buletin Anda,newsletter_subscription,NEWSLETTER,BLQ
+Saya tidak dapat berlangganan buletin perusahaan Anda,newsletter_subscription,NEWSLETTER,B
+Ceritakan lebih banyak tentang berlangganan buletin perusahaan Anda,newsletter_subscription,NEWSLETTER,B
+di mana saya bisa berlangganan perusahaan Anda berdarah,newsletter_subscription,NEWSLETTER,BIQWZ
+Bisakah Anda membantu saya berlangganan buletin perusahaan Anda?,newsletter_subscription,NEWSLETTER,BIP
+Bagaimana cara berlangganan buletin perusahaan Anda?,newsletter_subscription,NEWSLETTER,BI
+Saya tidak dapat membatalkan langganan buletin perusahaan saya,newsletter_subscription,NEWSLETTER,BELZ
+Ceritakan tentang berlangganan buletin perusahaan Anda,newsletter_subscription,NEWSLETTER,B
+saya perlu bantuan untuk membatalkan langganan buletin perusahaan,newsletter_subscription,NEWSLETTER,B
+Saya ingin bantuan untuk berlangganan buletin perusahaan Anda,newsletter_subscription,NEWSLETTER,B
+saya perlu bantuan membatalkan langganan ke buletin,newsletter_subscription,NEWSLETTER,BLQ
+Saya tidak dapat memeriksa status langganan buletin saya,newsletter_subscription,NEWSLETTER,BEL
+Bantu Membatalkan Langganan ke Newsletter Perusahaan Anda,newsletter_subscription,NEWSLETTER,B
+Bisakah Anda membantu saya berlangganan buletin perusahaan Anda?,newsletter_subscription,NEWSLETTER,BI
+Di mana saya bisa berlangganan buletin perusahaan Anda?,newsletter_subscription,NEWSLETTER,BIP
+Saya tidak tahu cara berlangganan buletin perusahaan Anda,newsletter_subscription,NEWSLETTER,B
+Saya ingin bantuan berlangganan buletin,newsletter_subscription,NEWSLETTER,BLQ
+Berlangganan newsleter,newsletter_subscription,NEWSLETTER,BKLZ
+Saya tidak tahu bagaimana berhenti berlangganan nawala,newsletter_subscription,NEWSLETTER,BELQZ
+Ceritakan tentang berlangganan buletin perusahaan Anda,newsletter_subscription,NEWSLETTER,B
+Bantu saya untuk melihat status langganan buletin saya,newsletter_subscription,NEWSLETTER,BLZ
+Bisakah Anda membantu saya berhenti berlangganan buletin perusahaan?,newsletter_subscription,NEWSLETTER,BIL
+Di mana saya melaporkan masalah pembayaran?,payment_issue,PAYMENT,BIM
+Saya perlu bantuan memecahkan masalah dengan pembayaran,payment_issue,PAYMENT,B
+Saya ingin bantuan melaporkan masalah pembayaran,payment_issue,PAYMENT,BM
+Bantu saya untuk memecahkan masalah dengan pembayaran,payment_issue,PAYMENT,BM
+Saya butuh bantuan untuk memecahkan masalah dengan pembayaran,payment_issue,PAYMENT,B
+Bisakah Anda membantu saya melaporkan masalah dengan pembayaran?,payment_issue,PAYMENT,BIM
+Bisakah Anda membantu saya menyelesaikan masalah pembayaran?,payment_issue,PAYMENT,BIP
+Laporkan masalah dengan pembayaran,payment_issue,PAYMENT,BM
+melaporkan masalah dengan pembayaran,payment_issue,PAYMENT,BKM
+Di mana saya bisa melaporkan masalah pembayaran?,payment_issue,PAYMENT,BIP
+Bisakah Anda membantu saya melaporkan masalah pembayaran?,payment_issue,PAYMENT,BI
+melaporkan masalah dengan pembayaran,payment_issue,PAYMENT,BKM
+Di mana melaporkan masalah pembayaran?,payment_issue,PAYMENT,BI
+Saya mencoba melaporkan masalah dengan pembayaran,payment_issue,PAYMENT,BM
+Bisakah Anda membantu saya melaporkan masalah dengan pembayaran?,payment_issue,PAYMENT,BIMP
+Bisakah Anda membantu saya menyelesaikan masalah dengan pembayaran?,payment_issue,PAYMENT,BIMP
+Saya harus melaporkan masalah pembayaran,payment_issue,PAYMENT,BM
+Saya ingin bantuan untuk menyelesaikan masalah dengan pembayaran,payment_issue,PAYMENT,B
+Bantu saya melaporkan masalah dengan pembayaran,payment_issue,PAYMENT,BM
+Bantu saya melaporkan masalah dengan pembayaran,payment_issue,PAYMENT,BM
+Bisakah Anda membantu saya melaporkan masalah dengan pembayaran?,payment_issue,PAYMENT,BIM
+Saya tidak tahu apa yang harus saya lakukan untuk melaporkan masalah pembayaran,payment_issue,PAYMENT,BEM
+Saya tidak tahu apa yang perlu saya lakukan untuk melaporkan masalah pembayaran,payment_issue,PAYMENT,BEM
+melaporkan masalah pembayaran,payment_issue,PAYMENT,BK
+Bagaimana saya bisa melaporkan masalah dengan pembayaran?,payment_issue,PAYMENT,BI
+Bisakah Anda membantu saya melaporkan masalah dengan pembayaran?,payment_issue,PAYMENT,BIP
+Bisakah Anda membantu saya menyelesaikan masalah pembayaran?,payment_issue,PAYMENT,BIMP
+Di mana saya melaporkan masalah dengan pembayaran?,payment_issue,PAYMENT,BIM
+Bisakah Anda membantu saya melaporkan masalah dengan pembayaran?,payment_issue,PAYMENT,BIMP
+Saya ingin melaporkan masalah dengan pembayaran,payment_issue,PAYMENT,BMP
+Saya mencoba melaporkan masalah dengan pembayaran,payment_issue,PAYMENT,B
+Saya ingin bantuan melaporkan masalah pembayaran,payment_issue,PAYMENT,B
+Bisakah Anda membantu saya memecahkan masalah dengan pembayaran?,payment_issue,PAYMENT,BI
+Bagaimana saya bisa memesan?,place_order,ORDER,BIP
+Bisakah Anda membantu saya membeli sesuatu?,place_order,ORDER,BI
+Bisakah Anda membantu saya membeli barang?,place_order,ORDER,BIP
+Saya mencoba membeli beberapa barang Anda,place_order,ORDER,BM
+Bisakah Anda membantu saya membeli beberapa barang Anda?,place_order,ORDER,BIMP
+Apakah mungkin untuk membeli barang?,place_order,ORDER,BI
+Saya tidak tahu harus berbuat apa untuk membuat pesanan,place_order,ORDER,B
+Apakah mungkin untuk membeli beberapa barang Anda?,place_order,ORDER,BIMP
+saya mencoba membeli beberapa barang,place_order,ORDER,BM
+Saya tidak tahu harus berbuat apa untuk membeli barang,place_order,ORDER,B
+Saya ingin melakukan pembelian,place_order,ORDER,B
+Saya tidak tahu apa yang perlu saya lakukan untuk membeli sesuatu,place_order,ORDER,B
+membeli barang,place_order,ORDER,BK
+Bisakah Anda membantu saya membeli beberapa item?,place_order,ORDER,BIMP
+saya mencoba membeli beberapa item,place_order,ORDER,BM
+saya butuh bantuan membeli beberapa barang,place_order,ORDER,BM
+Saya tidak tahu cara membeli sesuatu,place_order,ORDER,BE
+Apa yang harus saya lakukan untuk membeli beberapa barang?,place_order,ORDER,BIM
+Bagaimana saya bisa membeli item?,place_order,ORDER,BIP
+Bantu saya membeli sesuatu,place_order,ORDER,B
+membantu membuat pesanan,place_order,ORDER,B
+Saya tidak tahu bagaimana saya bisa membeli sesuatu,place_order,ORDER,B
+Bagaimana cara membeli beberapa item?,place_order,ORDER,BIM
+Bisakah Anda membantu saya membeli beberapa barang Anda?,place_order,ORDER,BIMP
+membantu membeli beberapa barang Anda,place_order,ORDER,BM
+Apakah mungkin untuk membeli beberapa barang Anda?,place_order,ORDER,BIM
+Saya ingin bantuan membeli beberapa barang Anda,place_order,ORDER,BM
+Beli item,place_order,ORDER,B
+Saya tidak tahu bagaimana membuat pesanan,place_order,ORDER,B
+Bisakah Anda membantu saya melakukan pembelian?,place_order,ORDER,BI
+Saya tidak tahu bagaimana saya bisa memesan,place_order,ORDER,BP
+Saya tidak tahu bagaimana saya bisa memesan,place_order,ORDER,BEP
+Saya tidak tahu bagaimana saya bisa membeli beberapa item,place_order,ORDER,BEM
+informasi tentang kata sandi yang terlupakan,recover_password,ACCOUNT,BM
+Butuh bantuan untuk memulihkan pin akun saya,recover_password,ACCOUNT,BLQ
+Di mana saya bisa mendapatkan informasi tentang pemulihan kata sandi?,recover_password,ACCOUNT,BI
+saya ingin membantu memulihkan kata sandi saya,recover_password,ACCOUNT,B
+Bisakah Anda memberi saya informasi tentang kata sandi yang terlupakan?,recover_password,ACCOUNT,BIP
+Saya lupa kode piin saya membutuhkan bantuan untuk memulihkannya,recover_password,ACCOUNT,BCLQVZ
+Bisakah Anda membantu saya memulihkan kata sandi saya?,recover_password,ACCOUNT,BIP
+saya tidak dapat memulihkan kata sandi saya,recover_password,ACCOUNT,BE
+Saya memiliki masalah dengan umpan yang terlupakan,recover_password,ACCOUNT,BLMQ
+Saya ingin bantuan mengatur ulang kunci akses akun saya,recover_password,ACCOUNT,BLZ
+Saya mencari informasi tentang pengambilan pass saya,recover_password,ACCOUNT,BELQ
+Bagaimana cara menemukan informasi tentang pemulihan kata sandi?,recover_password,ACCOUNT,BI
+Ceritakan tentang kata sandi yang terlupakan,recover_password,ACCOUNT,B
+"Saya dapat mengingat kunci saya, ingin bantuan mengatur ulang",recover_password,ACCOUNT,BCELQZ
+Bagaimana cara menemukan informasi tentang kata sandi yang terlupakan?,recover_password,ACCOUNT,BI
+Saya tidak tahu bagaimana saya dapat mengatur ulang kunci akun pengguna saya,recover_password,ACCOUNT,BELQ
+di mana mengambil kode pin akun saya?,recover_password,ACCOUNT,BIL
+Saya memiliki masalah dengan kata sandi yang terlupakan,recover_password,ACCOUNT,BM
+Bisakah Anda memberi saya informasi tentang kata sandi yang terlupakan?,recover_password,ACCOUNT,BIMP
+membantu memulihkan pin akun saya,recover_password,ACCOUNT,BLQ
+Bisakah Anda ceritakan tentang kata sandi yang terlupakan?,recover_password,ACCOUNT,BIM
+Di mana saya dapat menemukan informasi tentang PWD saya yang hilang?,recover_password,ACCOUNT,BILQ
+Di mana saya dapat menemukan informasi tentang pemulihan kata sandi?,recover_password,ACCOUNT,BI
+Saya tidak tahu bagaimana saya bisa memulihkan kata sandi saya,recover_password,ACCOUNT,BE
+Saya punya pertanyaan tentang kata sandi yang terlupakan,recover_password,ACCOUNT,BM
+Pertanyaan tentang reset utama saya,recover_password,ACCOUNT,BL
+Bantu saya memulihkan kata sandi saya,recover_password,ACCOUNT,B
+"Seseorang mencuri pass akun pengguna saya, di mana saya memulihkannya?",recover_password,ACCOUNT,BCILQ
+Saya ingin membantu memulihkan kunci akses saya,recover_password,ACCOUNT,BL
+ingin bantuan memulihkan kode pin akun pengguna saya,recover_password,ACCOUNT,BLQ
+Saya ingin bantuan memulihkan kata sandi saya,recover_password,ACCOUNT,B
+Saya ingin tahu lebih banyak tentang kata sandi yang terlupakan,recover_password,ACCOUNT,B
+Saya harus memulihkan kata sandi saya,recover_password,ACCOUNT,B
+Bisakah Anda memberi saya informasi tentang reset PIN saya?,recover_password,ACCOUNT,BIL
+Temukan informasi tentang pemulihan kata sandi,recover_password,ACCOUNT,B
+Saya tidak tahu bagaimana saya dapat mengembalikan kunci akses akun saya,recover_password,ACCOUNT,BL
+Saya tidak bisa memulihkan pin saya,recover_password,ACCOUNT,BELW
+Bagaimana saya bisa mendapatkan informasi tentang kata sandi yang terlupakan?,recover_password,ACCOUNT,BIP
+Saya ingin tahu lebih banyak tentang pemulihan kata sandi,recover_password,ACCOUNT,B
+ingin dukungan dengan pendaftaran pengguna,registration_problems,ACCOUNT,BLQ
+Bagaimana cara melaporkan masalah pendaftaran?,registration_problems,ACCOUNT,BI
+Saya ingin bantuan melaporkan masalah pendaftaran,registration_problems,ACCOUNT,B
+Bantu Menghadapi Masalah Pendaftaran,registration_problems,ACCOUNT,BLMZ
+Saya tidak dapat memberi tahu kesalahan pendaftaran,registration_problems,ACCOUNT,BL
+Saya ingin bantuan melaporkan masalah pendaftaran,registration_problems,ACCOUNT,B
+Apa yang perlu saya lakukan untuk melaporkan masalah pendaftaran?,registration_problems,ACCOUNT,BIM
+Saya memiliki masalah dengan pendaftaran saya,registration_problems,ACCOUNT,B
+Saya tidak memberi tahu kesalahan pendaftaran,registration_problems,ACCOUNT,BLMQZ
+Bantuan tentang pendaftaran,registration_problems,ACCOUNT,B
+Di mana saya memberi tahu kesalahan pendaftaran?,registration_problems,ACCOUNT,BIL
+Saya memiliki masalah dengan pendaftaran akun saya,registration_problems,ACCOUNT,BL
+Saya ingin bantuan melaporkan masalah pendaftaran,registration_problems,ACCOUNT,BM
+Saya perlu bantuan untuk memberi tahu masalah pendaftaran,registration_problems,ACCOUNT,BL
+"saya tidak dapat mendaftar, bantuan melaporkan masalah tanda-uo",registration_problems,ACCOUNT,BCELZ
+Ada masalah dengan pendaftaran online kami,registration_problems,ACCOUNT,BLM
+menginformasikan masalah dengan pendaftaran akun,registration_problems,ACCOUNT,BLM
+membantu pelaporan masalah pendaftaran,registration_problems,ACCOUNT,BM
+dapatkah saya memberi tahu saya tentang kesalahan pendaftaran,registration_problems,ACCOUNT,BILQ
+ingin bantuan menginformasikan masalah pendaftaran,registration_problems,ACCOUNT,BLMQ
+Saya punya pertanyaan tentang pendaftaran online,registration_problems,ACCOUNT,BL
+Butuh bantuan melaporkan kesalahan pendaftaran,registration_problems,ACCOUNT,BLQ
+Bantu saya melaporkan masalah pendaftaran,registration_problems,ACCOUNT,BLM
+Saya harus memberi tahu masalah pendaftaran,registration_problems,ACCOUNT,BLMQ
+membantu pendaftaran kami,registration_problems,ACCOUNT,B
+Saya membutuhkan bantuan untuk melaporkan masalah pendaftaran,registration_problems,ACCOUNT,B
+Apakah mungkin untuk melaporkan masalah pendaftaran?,registration_problems,ACCOUNT,BIP
+Saya mencoba untuk menginformasikan kesalahan pendaftaran,registration_problems,ACCOUNT,BLZ
+saya membutuhkan bantuan mengenai pendaftaran pengguna,registration_problems,ACCOUNT,BL
+Saya memiliki masalah dengan tanda tangan online kami,registration_problems,ACCOUNT,BLMZ
+Apakah ada email untuk mengirimkan ulasan untuk perusahaan Anda?,review,FEEDBACK,BI
+Kirim tinjauan produk,review,FEEDBACK,BK
+Saya tidak tahu harus berbuat apa untuk meninggalkan ulasan untuk layanan Anda,review,FEEDBACK,B
+Saya tidak tahu harus berbuat apa untuk mengirimkan umpan balik,review,FEEDBACK,BE
+Saya tidak tahu cara meninggalkan ulasan untuk layanan,review,FEEDBACK,B
+Bagaimana saya bisa meninggalkan ulasan?,review,FEEDBACK,BIP
+Saya harus mengirimkan beberapa umpan balik untuk suatu layanan,review,FEEDBACK,B
+Saya mencoba meninggalkan ulasan untuk layanan,review,FEEDBACK,B
+Di mana saya bisa mengirimkan umpan balik untuk perusahaan Anda?,review,FEEDBACK,BIP
+Bagaimana cara meninggalkan ulasan untuk perusahaan Anda?,review,FEEDBACK,BI
+Bisakah Anda membantu saya meninggalkan ulasan untuk layanan Anda?,review,FEEDBACK,BI
+Bisakah Anda membantu saya meninggalkan ulasan untuk layanan Anda?,review,FEEDBACK,BIP
+Bantuan meninggalkan ulasan untuk layanan Anda,review,FEEDBACK,B
+Saya harus mengirimkan beberapa umpan balik untuk layanan Anda,review,FEEDBACK,B
+Bisakah Anda membantu saya mengirimkan umpan balik untuk suatu layanan?,review,FEEDBACK,BI
+Bagaimana cara mengirimkan umpan balik untuk suatu layanan?,review,FEEDBACK,BI
+Bisakah Anda membantu saya meninggalkan ulasan untuk layanan Anda?,review,FEEDBACK,BIP
+Saya butuh bantuan untuk mengirimkan umpan balik untuk perusahaan Anda,review,FEEDBACK,B
+Saya mencoba mengirimkan beberapa umpan balik untuk layanan Anda,review,FEEDBACK,B
+Saya tidak tahu cara mengirimkan umpan balik,review,FEEDBACK,B
+Bisakah Anda membantu saya mengirimkan umpan balik?,review,FEEDBACK,BIP
+Saya menelepon untuk mengirimkan umpan balik,review,FEEDBACK,B
+Bisakah Anda membantu saya mengirimkan umpan balik untuk perusahaan Anda?,review,FEEDBACK,BI
+saya butuh bantuan mengirimkan umpan balik untuk perusahaan Anda,review,FEEDBACK,B
+Bagaimana cara meninggalkan ulasan untuk perusahaan Anda?,review,FEEDBACK,BI
+Bantu saya mengirimkan beberapa umpan balik untuk layanan Anda,review,FEEDBACK,B
+Di mana saya meninggalkan ulasan?,review,FEEDBACK,BI
+Bagaimana cara mengirimkan umpan balik?,review,FEEDBACK,BI
+Apakah Anda memiliki email untuk mengirimkan ulasan untuk layanan Anda?,review,FEEDBACK,BI
+Saya butuh bantuan untuk mengirimkan umpan balik,review,FEEDBACK,B
+Bantu saya untuk mengirimkan umpan balik untuk suatu layanan,review,FEEDBACK,B
+Saya butuh bantuan meninggalkan ulasan,review,FEEDBACK,B
+Bisakah Anda membantu saya mengirimkan umpan balik untuk suatu layanan?,review,FEEDBACK,BI
+Saya ingin mengirimkan umpan balik untuk layanan Anda,review,FEEDBACK,BP
+Saya mencoba mengirimkan beberapa umpan balik untuk layanan Anda,review,FEEDBACK,B
+Saya ingin mengatur alamat pengiriman baru,set_up_shipping_address,SHIPPING_ADDRESS,BP
+Di mana saya mengatur alamat pengiriman yang berbeda?,set_up_shipping_address,SHIPPING_ADDRESS,BI
+Bisakah Anda membantu saya mengatur alamat pengiriman baru?,set_up_shipping_address,SHIPPING_ADDRESS,BI
+Masalah mengatur alamat pengiriman yang berbeda,set_up_shipping_address,SHIPPING_ADDRESS,BM
+Masalah mengatur alamat pengiriman baru,set_up_shipping_address,SHIPPING_ADDRESS,BM
+Saya tidak dapat mengatur alamat pengiriman yang berbeda,set_up_shipping_address,SHIPPING_ADDRESS,BE
+Saya tidak tahu bagaimana saya bisa mengatur alamat pengiriman yang berbeda,set_up_shipping_address,SHIPPING_ADDRESS,BP
+Saya butuh bantuan untuk mengatur alamat pengiriman lain,set_up_shipping_address,SHIPPING_ADDRESS,B
+Saya tidak bisa mengatur alamat pengiriman baru,set_up_shipping_address,SHIPPING_ADDRESS,B
+Saya mencoba mengatur alamat pengiriman baru,set_up_shipping_address,SHIPPING_ADDRESS,B
+Mengapa alamat pengiriman baru saya tidak berlaku,set_up_shipping_address,SHIPPING_ADDRESS,BE
+Apa yang harus saya lakukan untuk mengatur alamat pengiriman lain?,set_up_shipping_address,SHIPPING_ADDRESS,BI
+Saya ingin bantuan menyiapkan alamat pengiriman lain,set_up_shipping_address,SHIPPING_ADDRESS,B
+Bisakah Anda membantu saya mengatur alamat pengiriman baru?,set_up_shipping_address,SHIPPING_ADDRESS,BIP
+Saya harus mengatur alamat pengiriman yang berbeda,set_up_shipping_address,SHIPPING_ADDRESS,B
+Saya mencoba mengatur alamat pengiriman baru,set_up_shipping_address,SHIPPING_ADDRESS,B
+Di mana mengatur alamat pengiriman baru?,set_up_shipping_address,SHIPPING_ADDRESS,BI
+Saya ingin bantuan menyiapkan alamat pengiriman yang berbeda,set_up_shipping_address,SHIPPING_ADDRESS,B
+Bagaimana saya bisa mengatur alamat pengiriman yang berbeda?,set_up_shipping_address,SHIPPING_ADDRESS,BIP
+Saya butuh bantuan untuk mengatur alamat pengiriman baru,set_up_shipping_address,SHIPPING_ADDRESS,B
+Bagaimana saya bisa mengatur alamat pengiriman lain?,set_up_shipping_address,SHIPPING_ADDRESS,BIP
+Apa yang harus saya lakukan untuk mengatur alamat pengiriman yang berbeda?,set_up_shipping_address,SHIPPING_ADDRESS,BI
+Bantu saya menyiapkan alamat pengiriman baru,set_up_shipping_address,SHIPPING_ADDRESS,B
+saya perlu bantuan mengatur alamat pengiriman lain,set_up_shipping_address,SHIPPING_ADDRESS,B
+Bisakah Anda membantu saya mengatur alamat pengiriman lain?,set_up_shipping_address,SHIPPING_ADDRESS,BIP
+Saya membutuhkan bantuan untuk mengatur alamat pengiriman baru,set_up_shipping_address,SHIPPING_ADDRESS,B
+Saya memiliki masalah yang menyiapkan alamat pengiriman yang berbeda,set_up_shipping_address,SHIPPING_ADDRESS,BM
+Saya ingin bantuan mengatur alamat pengiriman yang berbeda,set_up_shipping_address,SHIPPING_ADDRESS,B
+mengapa saya tidak dapat mengatur alamat pengiriman baru yang valid,set_up_shipping_address,SHIPPING_ADDRESS,BE
+Bagaimana cara menggunakan profil yang berbeda?,switch_account,ACCOUNT,BIL
+saya perlu bantuan mengubah ke akun pengguna yang berbeda,switch_account,ACCOUNT,BLQ
+Saya tidak tahu apa yang perlu saya lakukan untuk beralih ke akun lain,switch_account,ACCOUNT,BE
+Bantu saya beralih ke akun baru,switch_account,ACCOUNT,BL
+Saya tidak tahu bagaimana saya bisa beralih pengguna,switch_account,ACCOUNT,B
+Saya tidak tahu harus berbuat apa untuk beralih ke akun pengguna baru,switch_account,ACCOUNT,BELQ
+saya ingin menggunakan akun lain,switch_account,ACCOUNT,B
+Apa yang perlu saya lakukan untuk beralih pengguna?,switch_account,ACCOUNT,BI
+Bantu saya beralih pengguna,switch_account,ACCOUNT,B
+Saya ingin bantuan menggunakan akun baru,switch_account,ACCOUNT,BL
+Saya tidak tahu apa yang harus saya lakukan untuk mengubah pengguna,switch_account,ACCOUNT,BL
+Bantuan untuk Beralih Pengguna,switch_account,ACCOUNT,B
+saya harus beralih pengguna,switch_account,ACCOUNT,B
+Apakah mungkin menggunakan profil baru,switch_account,ACCOUNT,BILQ
+Saya mencoba beralih ke akun lain,switch_account,ACCOUNT,B
+saya butuh bantuan menggunakan akun lain,switch_account,ACCOUNT,B
+dimana saya bisa beralih pengguna?,switch_account,ACCOUNT,BIP
+Bisakah Anda membantu saya beralih ke akun lain?,switch_account,ACCOUNT,BI
+saya perlu bantuan mengubah ke profil baru saya,switch_account,ACCOUNT,BLQ
+Bisakah Anda membantu saya mengganti pengguna?,switch_account,ACCOUNT,BIP
+Bisakah Anda membantu saya menggunakan akun lain?,switch_account,ACCOUNT,BIP
+saya perlu bantuan beralih ke akun yang berbeda,switch_account,ACCOUNT,BLQ
+Bisakah Anda membantu saya menggunakan profil baru?,switch_account,ACCOUNT,BIL
+Saya butuh bantuan untuk beralih ke akun lain,switch_account,ACCOUNT,B
+Saya ingin beralih ke akun lain,switch_account,ACCOUNT,B
+Bagaimana cara mengganti pengguna?,switch_account,ACCOUNT,BI
+Bantuan Melacak pesanan terakhir,track_order,ORDER,B
+Bantu saya melacak pesanan terakhir saya,track_order,ORDER,B
+pesanan pelacakan,track_order,ORDER,BK
+Saya harus melacak pesanan saya,track_order,ORDER,B
+Di mana saya bisa melacak pesanan terakhir saya?,track_order,ORDER,BI
+saya butuh bantuan memeriksa pesanan saya Eta,track_order,ORDER,B
+saya butuh bantuan untuk melacak pesanan,track_order,ORDER,B
+Bisakah saya memeriksa status pesanan saya?,track_order,ORDER,BI
+Bantu saya melacak pesanan terakhir,track_order,ORDER,B
+Bantu saya melacak pesanan,track_order,ORDER,B
+Saya tidak tahu cara memeriksa eta pesanan saya,track_order,ORDER,BE
+saya perlu bantuan melacak pesanan saya,track_order,ORDER,B
+Bisakah Anda membantu saya memeriksa ETA pesanan saya?,track_order,ORDER,BIP
+Bantuan Melacak Pesanan Saya,track_order,ORDER,B
+bantuan melacak pesanan terakhir saya,track_order,ORDER,B
+Di mana saya dapat melacak pesanan terakhir?,track_order,ORDER,BI
+Saya tidak tahu bagaimana saya dapat memeriksa status pesanan saya,track_order,ORDER,BE
+Bisakah Anda membantu saya memeriksa status pesanan saya?,track_order,ORDER,BIP
+Bisakah Anda membantu saya memeriksa ETA pesanan saya?,track_order,ORDER,BIP
+Saya tidak tahu cara memeriksa status pesanan saya,track_order,ORDER,B
+Saya tidak tahu bagaimana saya bisa memeriksa eta pesanan saya,track_order,ORDER,BP
+Di mana saya dapat memeriksa eta pesanan saya?,track_order,ORDER,BI
+Saya tidak bisa melacak pesanan terakhir,track_order,ORDER,BE
+Bagaimana cara melacak pesanan?,track_order,ORDER,BI
+Di mana saya bisa melacak pesanan terakhir saya?,track_order,ORDER,BIP
+Saya tidak tahu harus berbuat apa untuk memeriksa status pesanan saya,track_order,ORDER,BE
+Bagaimana cara memeriksa pesanan saya ETA?,track_order,ORDER,BI
+Bisakah saya memeriksa eta pesanan saya?,track_order,ORDER,BI
+Bagaimana cara melacak pesanan saya?,track_order,ORDER,BI
+Saya butuh bantuan untuk memeriksa apakah ada sesuatu yang baru dalam pengembalian dana saya,track_refund,REFUND,B
+Saya tidak tahu harus berbuat apa untuk melacak pengembalian dana,track_refund,REFUND,B
+Apakah mungkin untuk memeriksa status pengembalian dana?,track_refund,REFUND,BI
+Bagaimana cara melacak pengembalian dana?,track_refund,REFUND,BI
+Saya tidak tahu apa yang harus saya lakukan untuk memeriksa status pengembalian dana,track_refund,REFUND,BE
+Saya ingin membantu melacak pengembalian dana,track_refund,REFUND,B
+membantu memeriksa status pengembalian dana saya,track_refund,REFUND,B
+Saya harus melacak pengembalian dana,track_refund,REFUND,B
+Saya ingin bantuan untuk melacak pengembalian dana,track_refund,REFUND,B
+Bantuan untuk memeriksa status pengembalian dana,track_refund,REFUND,B
+Apa yang harus saya lakukan untuk memeriksa status pengembalian dana saya?,track_refund,REFUND,BI
+saya perlu memeriksa status pengembalian dana saya,track_refund,REFUND,B
+Bagaimana saya bisa memeriksa apakah ada sesuatu yang baru pada pengembalian dana saya?,track_refund,REFUND,BIP
+Bisakah Anda menunjukkan status pengembalian dana saya?,track_refund,REFUND,BIP
+Bisakah Anda membantu saya memeriksa status pengembalian dana saya?,track_refund,REFUND,BI
+Saya mencoba memeriksa status pengembalian dana,track_refund,REFUND,B
+Periksa status pengembalian dana saya,track_refund,REFUND,B
+Saya tidak tahu cara memeriksa status pengembalian dana saya,track_refund,REFUND,BE
+Di mana saya bisa memeriksa status pengembalian dana saya?,track_refund,REFUND,BIP
+saya perlu bantuan memeriksa status pengembalian dana saya,track_refund,REFUND,B
+Bisakah Anda membantu saya memeriksa status pengembalian dana saya?,track_refund,REFUND,BI
+Saya ingin bantuan untuk memeriksa status pengembalian dana saya,track_refund,REFUND,B
+Saya tidak dapat memeriksa apakah ada pembaruan tentang pengembalian dana saya,track_refund,REFUND,BM
+Saya tidak tahu bagaimana saya bisa memeriksa status pengembalian dana,track_refund,REFUND,BP
+Saya ingin membantu memeriksa status pengembalian dana,track_refund,REFUND,B
+Saya tidak tahu harus berbuat apa untuk memeriksa status pengembalian dana,track_refund,REFUND,BE
+Saya ingin memeriksa apakah ada sesuatu yang baru dalam pengembalian dana saya,track_refund,REFUND,BP
+Bantu saya memeriksa apakah ada pembaruan tentang pengembalian dana saya,track_refund,REFUND,BM
+Apa status pengembalian dana saya?,track_refund,REFUND,BI
+Saya tidak tahu cara memeriksa status pengembalian dana,track_refund,REFUND,B
+Saya ingin bantuan memeriksa jika ada pembaruan tentang pengembalian dana saya,track_refund,REFUND,BM
+Bisakah Anda membantu saya memeriksa status pengembalian dana saya?,track_refund,REFUND,BI
+Bisakah saya memeriksa status pengembalian dana saya?,track_refund,REFUND,BI
+Apa yang perlu saya lakukan untuk memeriksa status pengembalian dana saya?,track_refund,REFUND,BI
+membantu memeriksa status pengembalian dana saya,track_refund,REFUND,B
+Bagaimana cara memeriksa apakah ada pembaruan tentang pengembalian dana saya?,track_refund,REFUND,BIM
+saya mencoba memeriksa status pengembalian dana,track_refund,REFUND,B
+Saya ingin bantuan untuk memeriksa status pengembalian dana,track_refund,REFUND,B
+Saya ingin bantuan memeriksa status pengembalian dana,track_refund,REFUND,B
+Bagaimana cara memeriksa status pengembalian dana saya?,track_refund,REFUND,BI
+Di mana saya melacak pengembalian dana?,track_refund,REFUND,BI
